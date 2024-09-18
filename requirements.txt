@@ -1,5 +1,6 @@
 aiofiles
 aiohttp
+pymongo[srv]==3.10
 asyncio
 beautifulsoup4
 dnspython
