@@ -68,9 +68,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
          [
          InlineKeyboardButton(text="•ᴅᴇᴠᴇʟᴏᴘᴇʀ•", url=f"https://t.me/SanjayS27",),
-         InlineKeyboardButton(text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/+iU0P7toT8nQyNjBl",),
+         InlineKeyboardButton(text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/tamil_tamilchat",),
         ],
-        [ InlineKeyboardButton(text="📱Mᴏᴠɪᴇs+Sᴇʀɪᴇs+Aɴɪᴍᴇ 🎬", url=f"https://t.me/okflix_ottbot?start=start")],
     ]
     return buttons
 
@@ -86,9 +85,8 @@ def stream_markup(_, chat_id):
         ],
          [
          InlineKeyboardButton(text="•ᴅᴇᴠᴇʟᴏᴘᴇʀ•", url=f"https://t.me/SanjayS27",),
-         InlineKeyboardButton(text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/+iU0P7toT8nQyNjBl",),
+         InlineKeyboardButton(text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/tamil_tamilchat",),
         ],
-        [ InlineKeyboardButton(text="📱Mᴏᴠɪᴇs+Sᴇʀɪᴇs+Aɴɪᴍᴇ 🎬", url=f"https://t.me/okflix_ottbot?start=start")],
     ]
     return buttons
 
